@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  "to list files or directories in a table format with extra information including hidden files or directories" > ls_cwd_content
+ls -la > ls_cwd_content
